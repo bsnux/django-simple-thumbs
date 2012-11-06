@@ -15,4 +15,5 @@ setup(
     license='BSD License',
     platforms=['OS Independent'],
     classifiers=CLASSIFIERS,
+    zip_safe=False,
 )
